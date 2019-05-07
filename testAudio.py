@@ -1,5 +1,6 @@
 import speech_recognition as sr
 from datetime import date
+import webbrowser
 recognizer = sr.Recognizer()
 
 
@@ -12,9 +13,16 @@ def listen():
     try:
         #data = recognizer.recognize_sphinx(audio)
         data = recognizer.recognize_google(audio)
+        data = data.lower()
         print("You said: " + data)
         if data == "time":
             print(date.today())
+        if data.__contains__("youtube"):
+            webbrowser.open(
+                'https://www.youtube.com/results?search_query='+data, new=0)
+        if data.__contains__("google"):
+            webbrowser.open("https://www.google.com/search?q="+data, new=0)
+
         return data
         # or: return recognizer.recognize_google(audio)
     except sr.UnknownValueError:
@@ -25,4 +33,6 @@ def listen():
     return ""
 
 
-data = listen()
+data = ""
+while data != 'exit':
+    data = listen()

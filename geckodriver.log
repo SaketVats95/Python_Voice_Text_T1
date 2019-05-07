@@ -1,0 +1,1413 @@
+1557225218553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.1Rn06ACoBvvL"
+1557225449818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.7MKe67n6XSo4"
+1557225453808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557225453810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557225453810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557225484409	Marionette	INFO	Listening on port 14118
+1557225484743	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 18372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bui[Child 1916, Chrome_Child/build/src/ipc/lchromium/src/chrome/common/ipc_channel_win.cc, line 332dThread] WARNING: pipe error: 
+109: file[Child 1 z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1[Parent 18372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 141557225526971	Marionette	INFO	Stopped listening on port 14118
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1557226134583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.uKFMBN5EMQWp"
+1557226139364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557226139365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557226139365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557226153753	Marionette	INFO	Listening on port 14616
+[Child 1160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1161557226153959	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 7460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 46console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indiconsole.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Child 13916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13764, C[Parent 13004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 45201557227294368	Marionette	INFO	Stopped listening on port 15313
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 131
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ipc_1557227039659	Marionette	INFO	Stopped listening on port 14616
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557227047457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.RSgzQtZTwZMt"
+1557227049586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557227049587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557227049587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557227054328	Marionette	INFO	Listening on port 15446
+1557227054642	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Child 18376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18376, Chrome_ChildThread] WARNING: pipe erro[Parent 352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child [Parent 352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17436, Chrome_ChildThre1557227293018	Marionette	INFO	Stopped listening on port 15446
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP[Parent 352, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+nel_win.cc, line 332
+[Child 11284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557227291356	Marionette	INFO	Stopped listening on port 15614
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x540005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1557227512723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.4qFlse7DBuph"
+1557227515421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557227515422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557227515422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557227520276	Marionette	INFO	Listening on port 15906
+1557227520462	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 12696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18164, Chrome_Chi[Child 2320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2320, [Parent 12696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557227887820	Marionette	INFO	Stopped listening on port 15906
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 17
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ings.js:190:13
+
+[Parent 15340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 15340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child[Parent 15340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557227886185	Marionette	INFO	Stopped listening on port 16029
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+r*
+1557227786261	Marionette	INFO	Listening on port 16212
+[Child 15744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 151557227786568	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 3[Child 11900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11900, Chrome_C[Parent 15460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1557227886185	Marionette	INFO	Stopped listening on port 16212
+
+###!!! [Child][RunMessage] Error: Channel closing: too late[Child 14368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14[Child 18176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18176, [Parent 17384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557228160836	Marionette	INFO	Stopped listening on port 16355
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+eenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557227977169	Marionette	INFO	Listening on port 16503
+1557227977652	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b[Parent 13932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4241557228133534	Marionette	INFO	Stopped listening on port 16503
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15[Parent 13932, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+e	WARN	TLS certificate errors will be ignored for this session
+[Child 13188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 131881557228152774	Marionette	INFO	Stopped listening on port 16673
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557228355324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.Ng6wVVybU0Lu"
+1557228357565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557228357566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557228357566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557228361954	Marionette	INFO	Listening on port 16923
+1557228362321	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3[Child 107732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chro2m
+ium/src/chro[mChilde/common/ipc_channel_win.cc, line 332
+[Chil[Parent 12904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1557228429923	Marionette	INFO	Stopped listening on port 16923
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557228505146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.hgU5iBpLScGl"
+1557228507412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557228507413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557228507413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557228512120	Marionette	INFO	Listening on port 17072
+1557228512309	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 14988, Chrome_ChildThread] WARNING: pipe error: 109: file z:[C/hild 13116b, Chrome_uCihlildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commond/build/src/ipc/ipc_/chromium/src/chrome/cchannel_win.cc, line 332
+ommon/ipc_channel_win.cc, line 332
+[Child 13116, Chrome_ChildThread] WARNIN[G:Child 14988, Chrom[Parent 964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557228819801	Marionette	INFO	Stopped listening on port 17072
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557228873383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.KppfX8ahTzAb"
+1557228875570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557228875571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557228875571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557228880431	Marionette	INFO	Listening on port 17338
+1557228880511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557228884363	Marionette	INFO	Stopped listening on port 17338
+[Child 7668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7[Child 8904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 890
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU1557228940014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.VMTRXu8rAbuL"
+1557228942127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557228942128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557228942128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557228947351	Marionette	INFO	Listening on port 17423
+1557228947661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557228958518	Marionette	INFO	Stopped listening on port 17423
+[Parent 244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 10628, MediaPlayback #3] WARNING: Decoder=1c320964000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3331
+IPDL protocol error: Handler returned error code!
+[Child 10628, MediaPla
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+yback #2] WARNING: Decoder=1c320964000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3331
+[Child 10628, MediaPlayback #2] WARNING: Decoder=1c320964000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3331
+[Child 10628, MediaPlayback #3] WARNING: Decoder=1c320964000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3331
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13884, Chrome_ChildThread] WARNING: 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 89[Parent 244, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x540005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1557229249097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.JTwiF4whwBHy"
+1557229251279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557229251279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557229251279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557229256105	Marionette	INFO	Listening on port 17689
+1557229256232	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 14952, MediaPlayback #2] WARNING: Decoder=17617c42e00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3331
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Ms1557229294862	Marionette	INFO	Stopped listening on port 17779
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 18380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 18380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3331
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 13664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13[Child 14952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1[Parent 13188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557229291709	Marionette	INFO	Stopped listening on port 17689
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5[Parent 13188, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557229384985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.GaSWUJXdMy7S"
+1557229386924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557229386925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557229386925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557229391399	Marionette	INFO	Listening on port 17962
+1557229391537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557229405182	Marionette	INFO	Stopped listening on port 17962
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 5956, MediaPlayback #2] WARNING: Decoder=2af921d0c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3331
+[Child 5956, MediaPlayback #4] WARNING: Decoder=2af921d0c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3331
+[Child 5956, MediaPlayback #1] WARNING: Decoder=2af921d0c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3331
+[Child IPDL protocol error: Handler returned error code!
+5956, 
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+MediaPlayback #3] WARNING: Decoder=2af921d0c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3331
+[Child 5956, MediaPlayback #1] WARNING: Decoder=2af921d0c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3331
+[ChildIPDL protocol error: Handler returned error code!
+ 5956, Med
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+iaPlayback #4] WARNING: Decoder=2af921d0c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3331
+[Child 5956, MediaPlayback #3] WARNING: Decoder=2af921d0c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3331
+[Child 5956, MediaPlayback #4] WARNING: Decoder=2af921d0c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3331
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP[Parent 10468, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+1557229466991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.4IlUX0oryTWo"
+1557229468783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557229468783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557229468784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557229473165	Marionette	INFO	Listening on port 18090
+1557229473532	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 1524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15008, Chrome_ChildThread] WARNING: pipe error: 109:[ file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_wiChin.cc, line 332
+ld 17948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1[Parent 1524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557229568192	Marionette	INFO	Stopped listening on port 18090
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU [Parent 1524, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+1557230645369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.nN2C2HZ04LJO"
+1557230649059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557230649060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557230649061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557230653433	Marionette	INFO	Listening on port 19245
+1557230653615	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 17720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi1557230984463	Marionette	INFO	Stopped listening on port 19245
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+30677818	Marionette	INFO	Stopped listening on port 19287
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Child 12420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12420, Chrome_C[Parent 7044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7044, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+1557230736429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.Dj8VF3iRd9mE"
+1557230739432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557230739432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557230739432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557230743692	Marionette	INFO	Listening on port 19369
+1557230744086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557230745211	Marionette	INFO	Stopped listening on port 19369
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Child 16824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16824, [Child 16088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16088, Chrome_ChildThread] WARNING: pipe error: 109[Parent 636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP[Parent 636, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+1557230886010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.UkjcY2UG2KmF"
+1557230888048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557230888048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557230888048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557230892199	Marionette	INFO	Listening on port 19475
+1557230892555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557230893936	Marionette	INFO	Stopped listening on port 19475
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Child 6820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6820, Chrome_Chi[Parent 18248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  AbortError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  AbortError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G[Parent 18248, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557230931481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.cZtyJzFabBZz"
+1557230933629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557230933630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557230933630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557230937855	Marionette	INFO	Listening on port 19514
+1557230938048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557230939285	Marionette	INFO	Stopped listening on port 19514
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Parent 17044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3256, Chrome_[Child 5144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5144, Chrome_ChildThread] WARNING: pipe error[Parent 17044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU[Parent 17044, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+1557231178368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.zpiy5gkYYKmY"
+1557231180613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557231180614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557231180614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557231185098	Marionette	INFO	Listening on port 19755
+1557231185515	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 9132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch1557232233790	Marionette	INFO	Stopped listening on port 19755
+[Parent 9132, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x540005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+ficate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+[Child 14624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1462[Child 15976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15976, Chrome_ChildThread] WAR[Parent 12352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557232231982	Marionette	INFO	Stopped listening on port 1433
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11557232247956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.nxSuwCqzNWpo"
+1557232251314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557232251315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557232251315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557232255907	Marionette	INFO	Listening on port 1250
+1557232256196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557232298207	Marionette	INFO	Stopped listening on port 1250
+[Child 3064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/c[Parent 12408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1800[Parent 12408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9[GPU 1271557232455523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.ou2lKqTnewaz"
+1557232457363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557232457364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557232457364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557232461559	Marionette	INFO	Listening on port 1278
+1557232462063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557232500976	Marionette	INFO	Stopped listening on port 1278
+[Child 6200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 13104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[Parent 13104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP1557233194065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.4axKjHbL9bxC"
+1557233195921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557233195921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557233195922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557233200189	Marionette	INFO	Listening on port 1731
+1557233200589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+[Parent 15608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 15608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/i[pc_Cchild 18240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18240, Chrome_ChildThread] [Parent 15608, Ge1557233366919	Marionette	INFO	Listening on port 1111
+1557233367203	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+1557233426713	Marionette	INFO	Stopped listening on port 1111
+[Parent 5160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17704, C[Child 16164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1801557233698702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.BH3iLdFJNoyQ"
+1557233701290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557233701291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557233701291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557233707515	Marionette	INFO	Listening on port 8293
+1557233707566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 4180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+[Parent 4180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returneJavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+[Parent 3960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 381557234360794	Marionette	INFO	Stopped listening on port 1246
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+anifest: Invalid extension permission: about:reader*
+1557234240121	Marionette	INFO	Listening on port 19396
+1557234240509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_facf1fcbbb88bef6260d9efcd8046918/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_b95ef52e61151d1e68ba3d687dbd1376/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_e6ad0c07d2007d197a88f66ff472efaa/frame.js, line 583: unreachable code after return statement
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 10496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557234733401	Marionette	INFO	Stopped listening on port 19396
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Script warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Child 7668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child [Parent 12556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13796, Chrom[Parent 12556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[1557234737193	Marionette	INFO	Listening on port 1065
+1557234737385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+[Parent 16172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+[Parent 16172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 16172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s[Parent 16172, Gecko_IOThreaJavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+[Child 7400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 74[Parent 16192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557235816308	Marionette	INFO	Stopped listening on port 1199
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPUther be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+[Parent 15828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13004, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+[Child 13004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1300@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557235516539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557235521320	Marionette	INFO	Listening on port 6900
+1557235521669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+[Parent 17080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557235616501	Marionette	INFO	Stopped listening on port 6900
+[Parent 17080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[1557235697445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.zQ8Yoo45MYk3"
+1557235699342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557235699342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557235699343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557235703261	Marionette	INFO	Listening on port 1106
+1557235703477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 4360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child [Parent 4360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557235808265	Marionette	INFO	Stopped listening on port 1106
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x540005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1557235918848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.khwwdrO0m3hu"
+1557235920800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557235920800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557235920800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557235924951	Marionette	INFO	Listening on port 1195
+1557235925398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 15752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 15752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10764, Chrome_ChildThread] WA1557236376911	Marionette	INFO	Stopped listening on port 1195
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU [Parent 15752, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557236093935	Marionette	INFO	Stopped listening on port 16800
+[Child 15948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 13300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP1557236141750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.vhunqnbGuuxe"
+1557236143491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557236143492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557236143492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557236147457	Marionette	INFO	Listening on port 1265
+1557236147786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557236185971	Marionette	INFO	Stopped listening on port 1265
+[Parent 9188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8444, Chrome_ChildThreaJavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 9188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU1557236242546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.3jMnDWkV7qFv"
+1557236244290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557236244290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557236244290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557236248215	Marionette	INFO	Listening on port 1367
+1557236248594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557236280690	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557236280902	Marionette	INFO	Stopped listening on port 1367
+[Parent 9028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5380, Chrome_ChildThread] WARNING: pipe error: 109: fiIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 9028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP1557236326950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.BX84nMmjWtz3"
+1557236328694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557236328695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557236328695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557236333079	Marionette	INFO	Listening on port 1350
+1557236333486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+1557236359436	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+[Parent 14228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 14228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16312, Chrome_Chil[Parent 14228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557236378965	Marionette	INFO	Stopped listening on port 1350
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11557236436121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saket\\AppData\\Local\\Temp\\rust_mozprofile.w1Hbi3lTg1E8"
+1557236437946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557236437946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557236437947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557236441923	Marionette	INFO	Listening on port 15343
+1557236442150	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.js, line 135: TypeError: Super expression must either be null or a function, not undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/plugins/foundation.accordion.min.js, line 1: TypeError: Super expression must either be null or a function, not undefined
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_ef0c2d3a66539608fb9c4a93d1b0be3a/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_69e092d379c8d5ca183484d5e1301187/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1719: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1737: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 1889: unreachable code after return statement
+JavaScript warning: http://tag.imonomy.com/inpage/komo_a30d840ae5268512c664274860675672/frame.js, line 583: unreachable code after return statement
+1557236475145	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 13676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 180[Parent 13676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bu1557236890424	Marionette	INFO	Stopped listening on port 15343
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
