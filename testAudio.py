@@ -1,7 +1,10 @@
 import speech_recognition as sr
 from datetime import date
 import webbrowser
+import openfileandFolder as fff
+
 recognizer = sr.Recognizer()
+
 
 
 def listen():
@@ -22,6 +25,9 @@ def listen():
                 'https://www.youtube.com/results?search_query='+data, new=0)
         if data.__contains__("google"):
             webbrowser.open("https://www.google.com/search?q="+data, new=0)
+        if data.__contains__("open"):
+            fff.OpenFIleandFolder(data)
+            #webbrowser.open("https://www.google.com/search?q=" + data, new=0)
 
         return data
         # or: return recognizer.recognize_google(audio)
