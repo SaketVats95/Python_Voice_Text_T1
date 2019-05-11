@@ -1,10 +1,11 @@
 import speech_recognition as sr
 from datetime import date
 import webbrowser
-import openfileandFolder as fff
+import seleniumBrowserTesting as youtube
+#import openfileandFolder as fff
+import testAudio
 
 recognizer = sr.Recognizer()
-
 
 
 def listen():
@@ -21,12 +22,14 @@ def listen():
         if data == "time":
             print(date.today())
         if data.__contains__("youtube"):
-            webbrowser.open(
-                'https://www.youtube.com/results?search_query='+data, new=0)
+            search_query = data[(data.index("search for")+11):]
+            # webbrowser.open(
+            #    'https://www.youtube.com/results?search_query='+data, new=0)
+            testAudio.OpenYotube(search_query)
         if data.__contains__("google"):
             webbrowser.open("https://www.google.com/search?q="+data, new=0)
-        if data.__contains__("open"):
-            fff.OpenFIleandFolder(data)
+        # if data.__contains__("open"):
+         #   fff.OpenFIleandFolder(data)
             #webbrowser.open("https://www.google.com/search?q=" + data, new=0)
 
         return data
