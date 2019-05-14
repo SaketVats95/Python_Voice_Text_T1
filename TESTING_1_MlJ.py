@@ -3,11 +3,12 @@ from time import ctime
 import time
 import os
 from gtts import gTTS
+import pyttsx3
 
 import pyaudio
 
 
-def speak(audioString):
+def speakgttS(audioString):
     print(audioString)
     # tts = gTTS(text=audioString, lang='en')
     # tts.save("audio.mp3")
@@ -16,6 +17,12 @@ def speak(audioString):
     # tts = gTTS(text=, lang='en')
     tts.save('hello.mp3')
     # os.system("start hello.mp3")
+
+def speak(audioString):
+    speakEng=pyttsx3.init()
+    speakEng.say(audioString)
+    speakEng.runAndWait()
+
 
 
 def recordAudio():
