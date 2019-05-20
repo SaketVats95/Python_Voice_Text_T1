@@ -18,7 +18,9 @@ button=driver.find_element_by_xpath("//*[text()='Next']")
 print(button.text)
 button.click()
 driver.get(url)
-contactName=driver.find_element_by_xpath("//div[@class='E6Tb7b']")
+print(driver.page_source)
+contactName=driver.find_element_by_xpath("//div[contains(@class,'E6Tb7b')]")
+print(len(contactName))
 for i in contactName:
     print(i.text)
 

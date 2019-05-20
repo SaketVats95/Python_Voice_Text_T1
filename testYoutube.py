@@ -7,7 +7,6 @@ import webbrowser
 
 
 def OpenYotube(data):
-<<<<<<< HEAD
     textToSearch = data
     query = urllib.parse.quote(textToSearch)
     url = "https://www.youtube.com/results?search_query=" + query
@@ -27,7 +26,6 @@ def OpenYotube(data):
     #for vid in soup.findAll(attrs={'class': 'yt-uix-tile-link'}):
         #print('https://www.youtube.com' + vid['href']+vid.text.strip())
 
-=======
     textToSearch = 'Hello World'
     #query = urllib.parse.quote(textToSearch)
     url = "https://www.youtube.com/results?search_query=" + textToSearch
@@ -39,7 +37,6 @@ def OpenYotube(data):
     #f.write(soup.prettify)
     for vid in soup.findAll(attrs={'class': 'yt-uix-tile-link'}):
         print('https://www.youtube.com' + vid['href'])
->>>>>>> 001c49fb2cef29e02e92bf0f235e0a7abf94165e
 
 OpenYotube('Hello')
 
